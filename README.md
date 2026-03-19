@@ -25,6 +25,12 @@ Hii👋 I am Rajkumar Senapati .<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Pac-Man Contribution Graph
+<h1 align="center">👾 Welcome to My GitHub Arcade 👾</h1>
+<h2>👾 Pac-Man Contribution Graph</h2>
 
-![Pac-Man](https://github.com/Rajkumargit61/Rajkumargit61/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Rajkumargit61/Rajkumargit61/blob/output/pacman-glow.svg" width="100%">
+</p>
+### 👻 Ghost Mode
+
+![Pac-Man](https://github.com/Rajkumargit61/Rajkumargit61/blob/output/pacman.svg)
