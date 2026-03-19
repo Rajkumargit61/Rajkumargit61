@@ -31,6 +31,4 @@ Hii👋 I am Rajkumar Senapati .<br>
 <p align="center">
   <img src="https://github.com/Rajkumargit61/Rajkumargit61/blob/output/pacman-glow.svg" width="100%">
 </p>
-### 👻 Ghost Mode
 
-![Pac-Man](https://github.com/Rajkumargit61/Rajkumargit61/blob/output/pacman.svg)
