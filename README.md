@@ -25,3 +25,6 @@ Hii👋 I am Rajkumar Senapati .<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Pac-Man Contribution Graph
+
+![Pac-Man](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
