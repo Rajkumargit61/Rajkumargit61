@@ -26,7 +26,7 @@ Hii👋 I am Rajkumar Senapati .<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">👾 Welcome to My GitHub Arcade 👾</h1>
-<h2>👾 snake Contribution Graph</h2>
+<h2>👾 Snake Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github.com/Rajkumargit61/Rajkumargit61/blob/output/pacman-glow.svg" width="100%">
